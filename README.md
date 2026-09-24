@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://in.pinterest.com/pin/457889487139167966/" width="100%">
+  <img src=""C:\Users\soubh\OneDrive\Pictures\Wallpaper\zoro.jpeg"" width="100%">
 </p>
 # 💫 About Me:
 I'm a B.Tech Computer Science Engineering student, graduating in 2029, interested in building practical software and understanding how things work under the hood.<br><br>I enjoy turning ideas into working projects — from AI and computer vision systems to Python utilities, web applications, automation tools, and developer-focused projects.
